@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd96fe27-1c10-45c2-82fc-9223ed16a202" name="Default Changelist" comment="my first test">
+    <list default="true" id="cd96fe27-1c10-45c2-82fc-9223ed16a202" name="Default Changelist" comment="2nd tests">
+      <change afterPath="$PROJECT_DIR$/Html1/H1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html1/H1.pagina2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.Html.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +48,17 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="H1.1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/Html1/H1.1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -67,6 +81,8 @@
       <updated>1615814037339</updated>
       <workItem from="1615814038556" duration="138000" />
       <workItem from="1615814241898" duration="7876000" />
+      <workItem from="1615903825536" duration="597000" />
+      <workItem from="1616331838385" duration="3010000" />
     </task>
     <task id="LOCAL-00001" summary="my first test">
       <created>1615815195419</created>
@@ -117,14 +133,41 @@
       <option name="project" value="LOCAL" />
       <updated>1615895501632</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2nd tests">
+      <created>1615903994424</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615903994424</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2nd tests">
+      <created>1615904036161</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615904036161</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first test" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first test" />
+    <MESSAGE value="2nd tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd tests" />
   </component>
 </project>
