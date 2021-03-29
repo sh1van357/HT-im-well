@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd96fe27-1c10-45c2-82fc-9223ed16a202" name="Default Changelist" comment="H 1 &amp; 2">
-      <change afterPath="$PROJECT_DIR$/Html1/Tabellen.html" afterDir="false" />
+    <list default="true" id="cd96fe27-1c10-45c2-82fc-9223ed16a202" name="Default Changelist" comment="H3">
+      <change afterPath="$PROJECT_DIR$/Html1/Website_scratch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html1/Wilkens.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,6 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -46,15 +49,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,7 +84,9 @@
       <workItem from="1615814241898" duration="7876000" />
       <workItem from="1615903825536" duration="597000" />
       <workItem from="1616331838385" duration="3562000" />
-      <workItem from="1616427165904" duration="3800000" />
+      <workItem from="1616427165904" duration="5995000" />
+      <workItem from="1616500139849" duration="952000" />
+      <workItem from="1616937274634" duration="8194000" />
     </task>
     <task id="LOCAL-00001" summary="my first test">
       <created>1615815195419</created>
@@ -155,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616345464677</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="H3">
+      <created>1616432610078</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616432610078</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +187,7 @@
     <MESSAGE value="my first test" />
     <MESSAGE value="2nd tests" />
     <MESSAGE value="H 1 &amp; 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="H 1 &amp; 2" />
+    <MESSAGE value="H3" />
+    <option name="LAST_COMMIT_MESSAGE" value="H3" />
   </component>
 </project>
