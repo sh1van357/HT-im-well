@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd96fe27-1c10-45c2-82fc-9223ed16a202" name="Default Changelist" comment="H6">
-      <change afterPath="$PROJECT_DIR$/Html1/True_Music.css" afterDir="false" />
+    <list default="true" id="cd96fe27-1c10-45c2-82fc-9223ed16a202" name="Default Changelist" comment="H7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -48,19 +47,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="H1.1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/Html1/H1.1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -91,7 +77,9 @@
       <workItem from="1617194216177" duration="4080000" />
       <workItem from="1617286172600" duration="319000" />
       <workItem from="1617287220386" duration="2767000" />
-      <workItem from="1617366687954" duration="833000" />
+      <workItem from="1617366687954" duration="1586000" />
+      <workItem from="1617567035229" duration="717000" />
+      <workItem from="1617622779206" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="my first test">
       <created>1615815195419</created>
@@ -198,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617364483953</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="H7">
+      <created>1617367675565</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617367675565</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +219,7 @@
     <MESSAGE value="h4" />
     <MESSAGE value="H5" />
     <MESSAGE value="H6" />
-    <option name="LAST_COMMIT_MESSAGE" value="H6" />
+    <MESSAGE value="H7" />
+    <option name="LAST_COMMIT_MESSAGE" value="H7" />
   </component>
 </project>
